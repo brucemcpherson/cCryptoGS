@@ -1,5 +1,5 @@
 # Google Apps Script Project: cCryptoGS
-This repo (cCryptoGS) was automatically updated on 27 July 2016 10:35:37 BST by GasGit
+This repo (cCryptoGS) was automatically updated on 20 December 2017 13:11:34 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cCryptoGS
@@ -15,6 +15,7 @@ DES| server_js
 Rabbit| server_js
 TripleDES| server_js
 info| server_js
+appsscript| json
 ### Directly referenced libraries
 no libraries discovered
 ### All dependencies and sub dependencies
